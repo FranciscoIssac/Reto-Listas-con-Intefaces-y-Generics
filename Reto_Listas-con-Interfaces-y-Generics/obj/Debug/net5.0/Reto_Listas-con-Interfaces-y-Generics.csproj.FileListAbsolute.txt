@@ -1,0 +1,16 @@
+C:\Users\Francisco\Desktop\TOO\proyectos\List-C#\Reto_Listas-con-Interfaces-y-Generics\Reto_Listas-con-Interfaces-y-Generics\obj\Debug\net5.0\Reto_Listas-con-Interfaces-y-Generics.csproj.AssemblyReference.cache
+C:\Users\Francisco\Desktop\TOO\proyectos\List-C#\Reto_Listas-con-Interfaces-y-Generics\Reto_Listas-con-Interfaces-y-Generics\obj\Debug\net5.0\Reto_Listas-con-Interfaces-y-Generics.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Francisco\Desktop\TOO\proyectos\List-C#\Reto_Listas-con-Interfaces-y-Generics\Reto_Listas-con-Interfaces-y-Generics\obj\Debug\net5.0\Reto_Listas-con-Interfaces-y-Generics.AssemblyInfoInputs.cache
+C:\Users\Francisco\Desktop\TOO\proyectos\List-C#\Reto_Listas-con-Interfaces-y-Generics\Reto_Listas-con-Interfaces-y-Generics\obj\Debug\net5.0\Reto_Listas-con-Interfaces-y-Generics.AssemblyInfo.cs
+C:\Users\Francisco\Desktop\TOO\proyectos\List-C#\Reto_Listas-con-Interfaces-y-Generics\Reto_Listas-con-Interfaces-y-Generics\obj\Debug\net5.0\Reto_Listas-con-Interfaces-y-Generics.csproj.CoreCompileInputs.cache
+C:\Users\Francisco\Desktop\TOO\proyectos\List-C#\Reto_Listas-con-Interfaces-y-Generics\Reto_Listas-con-Interfaces-y-Generics\bin\Debug\net5.0\Reto_Listas-con-Interfaces-y-Generics.exe
+C:\Users\Francisco\Desktop\TOO\proyectos\List-C#\Reto_Listas-con-Interfaces-y-Generics\Reto_Listas-con-Interfaces-y-Generics\bin\Debug\net5.0\Reto_Listas-con-Interfaces-y-Generics.deps.json
+C:\Users\Francisco\Desktop\TOO\proyectos\List-C#\Reto_Listas-con-Interfaces-y-Generics\Reto_Listas-con-Interfaces-y-Generics\bin\Debug\net5.0\Reto_Listas-con-Interfaces-y-Generics.runtimeconfig.json
+C:\Users\Francisco\Desktop\TOO\proyectos\List-C#\Reto_Listas-con-Interfaces-y-Generics\Reto_Listas-con-Interfaces-y-Generics\bin\Debug\net5.0\Reto_Listas-con-Interfaces-y-Generics.runtimeconfig.dev.json
+C:\Users\Francisco\Desktop\TOO\proyectos\List-C#\Reto_Listas-con-Interfaces-y-Generics\Reto_Listas-con-Interfaces-y-Generics\bin\Debug\net5.0\Reto_Listas-con-Interfaces-y-Generics.dll
+C:\Users\Francisco\Desktop\TOO\proyectos\List-C#\Reto_Listas-con-Interfaces-y-Generics\Reto_Listas-con-Interfaces-y-Generics\bin\Debug\net5.0\Reto_Listas-con-Interfaces-y-Generics.pdb
+C:\Users\Francisco\Desktop\TOO\proyectos\List-C#\Reto_Listas-con-Interfaces-y-Generics\Reto_Listas-con-Interfaces-y-Generics\obj\Debug\net5.0\Reto_Listas-con-Interfaces-y-Generics.dll
+C:\Users\Francisco\Desktop\TOO\proyectos\List-C#\Reto_Listas-con-Interfaces-y-Generics\Reto_Listas-con-Interfaces-y-Generics\obj\Debug\net5.0\refint\Reto_Listas-con-Interfaces-y-Generics.dll
+C:\Users\Francisco\Desktop\TOO\proyectos\List-C#\Reto_Listas-con-Interfaces-y-Generics\Reto_Listas-con-Interfaces-y-Generics\obj\Debug\net5.0\Reto_Listas-con-Interfaces-y-Generics.pdb
+C:\Users\Francisco\Desktop\TOO\proyectos\List-C#\Reto_Listas-con-Interfaces-y-Generics\Reto_Listas-con-Interfaces-y-Generics\obj\Debug\net5.0\Reto_Listas-con-Interfaces-y-Generics.genruntimeconfig.cache
+C:\Users\Francisco\Desktop\TOO\proyectos\List-C#\Reto_Listas-con-Interfaces-y-Generics\Reto_Listas-con-Interfaces-y-Generics\obj\Debug\net5.0\ref\Reto_Listas-con-Interfaces-y-Generics.dll
